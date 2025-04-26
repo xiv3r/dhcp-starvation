@@ -5,6 +5,12 @@ dhcp starvation attack for linux and termux
 - linux or [kali in termux](https://github.com/xiv3r/Termux-Pentesting-Distro/blob/main/KaliLinux/Chroot/README.md)
 - g++ compiler
 
+# $${\color{cyan}Screenshots}$$
+
+<img src="https://github.com/xiv3r/dhcp-starvation/blob/main/image/Screenshot_2025_0427_062743.png">
+<img src="https://github.com/xiv3r/dhcp-starvation/blob/main/image/Screenshot_2025_0427_062719.png">
+<img src="https://github.com/xiv3r/dhcp-starvation/blob/main/image/Screenshot_2025_0427_062659.png">
+  
 # $${\color{cyan}Installation}$$
 
 <details><summary></summary>
