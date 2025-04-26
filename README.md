@@ -1,5 +1,5 @@
 # $${\color{cyan}DHCP- Starvation- Tool}$$
-dhcp starvation attack for linux and termux
+dhcp starvation tool is a powerful tool that can starve all dhcp pool leading to all clients unable to obtain the ip from the dhcp server.
 
 # $${\color{cyan}Requirements}$$
 - linux or [kali in termux](https://github.com/xiv3r/Termux-Pentesting-Distro/blob/main/KaliLinux/Chroot/README.md)
