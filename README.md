@@ -2,7 +2,7 @@
 dhcp starvation attack for linux and termux
 
 # $${\color{cyan}Requirements}$$
-- linux or kali in termux proot-distro
+- linux or [kali in termux](https://github.com/xiv3r/Termux-Pentesting-Distro/blob/main/KaliLinux/Chroot/README.md)
 - g++ compiler
 
 # $${\color{cyan}Installation}$$
