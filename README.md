@@ -6,6 +6,19 @@ dhcp starvation attack for linux and termux
 - g++ compiler
 
 # $${\color{cyan}Installation}$$
+
+<details><summary></summary>
+
+- $${\color{magenta}Using- Precompiled- Script}$$
+```
+wget https://github.com/xiv3r/dhcp-starvation/raw/refs/heads/main/starv && chmod 755 starv
+```
+- $${\color{magenta}run}$$
+```
+./starv
+```
+</details>
+
 - $${\color{magenta}install- package}$$
 ```
 sudo apt update
