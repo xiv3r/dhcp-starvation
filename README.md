@@ -1,26 +1,26 @@
-# $$(\color{cyan}DHCP- Starvation tool}$$
+# $${\color{cyan}DHCP- Starvation tool}$$
 dhcp starvation attack for linux and termux
 
-# $$(\color{cyan}Requirements}$$
+# $${\color{cyan}Requirements}$$
 - linux or kali in termux proot-distro
 - g++ compiler
 
-# $$(\color{cyan}Installation}$$
-> install package
+# $${\color{cyan}Installation}$$
+$${\color{magenta}install- package}$$
 ```
 sudo apt update
 sudo apt install g++
 ```
-> clone the repo
+$${\color{magenta}clone- the- repo}$$
 ```
 git clone https://github.com/xiv3r/dhcp-starvation.git
 cd dhcp-starvation
 ```
-> compiling 
+$${\color{magenta}compiling}$$
 ```
 g++ starv.cpp -o starv
 ```
-> run
+$${\color{magenta}run}$$
 ```
 ./starv
 ```
