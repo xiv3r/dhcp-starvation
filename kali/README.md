@@ -1,5 +1,5 @@
 # $${\color{orange}Installation}$$
-- $${\color{orange}dependencies}$$
+- $${\color{cyan}dependencies}$$
 ```
 sudo apt update
 sudo apt install macchanger isc-dhcp-client bc -y
