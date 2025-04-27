@@ -12,4 +12,6 @@ wget -o dhcp https://raw.githubusercontent.com/xiv3r/dhcp-starvation/refs/heads/
 ```
 bash dhcp -i wlan0 -g 192.168.1.1 -s 192.168.1.1/24
 ```
-<img width="80%" src="https://github.com/xiv3r/dhcp-starvation/blob/main/kali/images/Screenshot_2025_0427_085922.png">
+<img src="https://github.com/xiv3r/dhcp-starvation/blob/main/kali/images/Screenshot_2025_0427_085922.png">
+
+<img src="https://github.com/xiv3r/dhcp-starvation/blob/main/kali/images/Screenshot_2025_0427_085944.png">
