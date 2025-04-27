@@ -1,14 +1,14 @@
 # $${\color{orange}Installation}$$
-> dependencies
+- $${\color{orange}dependencies}$$
 ```
 sudo apt update
 sudo apt install macchanger isc-dhcp-client bc -y
 ```
-> download
+- $${\color{cyan}download}$$
 ```
-wget -o dhcp && chmod 700 dhcp
+wget -o dhcp https://raw.githubusercontent.com/xiv3r/dhcp-starvation/refs/heads/main/kali/dhcp && chmod 700 dhcp
 ```
-> run
+- $${\color{cyan}run}$$
 ```
 bash dhcp -i wlan0 -g 192.168.1.1 -s 192.168.1.1/24
 ```
