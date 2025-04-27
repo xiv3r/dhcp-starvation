@@ -36,7 +36,7 @@ wget https://github.com/xiv3r/dhcp-starvation/raw/refs/heads/main/starv && chmod
 - $${\color{magenta}install- package}$$
 ```
 sudo apt update
-sudo apt install g++
+sudo apt install wget git g++ -y
 ```
 - $${\color{magenta}clone- the- repo}$$
 ```
