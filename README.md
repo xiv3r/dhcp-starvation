@@ -22,18 +22,6 @@ dhcp starvation tool is a powerful tool that can starve all dhcp pool leading to
 
 # $${\color{cyan}Installation}$$
 
-<details><summary></summary>
-
-- $${\color{magenta}Using- Precompiled- Script}$$
-```
-wget https://github.com/xiv3r/dhcp-starvation/raw/refs/heads/main/starv && chmod 755 starv
-```
-- $${\color{magenta}run}$$
-```
-./starv
-```
-</details>
-
 - $${\color{magenta}install- package}$$
 ```
 sudo apt update
