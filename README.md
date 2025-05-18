@@ -1,5 +1,5 @@
 # $${\color{cyan}TERMUX- DHCP- Starvation- Tool}$$
-dhcp starvation tool is a powerful tool that can starved all dhcp pool leading to all clients unable to obtain the ip from the dhcp server or either experience a network disruptions.
+A DHCP starvation tool is a powerful network attack tool that floods a DHCP server with fake DHCP requests, exhausting all available IP addresses in the DHCP pool. This prevents legitimate clients from obtaining an IP address, leading to network disruptions or a complete denial of service (DoS) for affected devices.
 
 # $${\color{cyan}Requirements}$$
 - g++/gcc compiler
