@@ -11,9 +11,9 @@ cd dhcp-starvation
 g++ starv.cpp -o starv
 
 # Prompt
+echo " "
+echo " "
 cat << EOF
-
-
 Run with Interface: ./starv -i wlan0
 Run in all Interface: ./starv
 EOF
