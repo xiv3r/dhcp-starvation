@@ -5,10 +5,10 @@ A DHCP starvation tool is a powerful network attack tool that floods a DHCP serv
 - g++/gcc compiler
 - Termux
 
-<details><summary></summary>
   
 # $${\color{cyan}Screenshots}$$
-
+<details><summary></summary>
+  
 -----
 <img src="https://github.com/xiv3r/dhcp-starvation/blob/main/image/Screenshot_2025_0427_062659.png">
 
