@@ -19,7 +19,12 @@ A DHCP starvation tool is a powerful network attack tool that floods a DHCP serv
 <img src="https://github.com/xiv3r/dhcp-starvation/blob/main/image/Screenshot_2025_0427_062743.png">
 </img></details>
 
-# $${\color{cyan}Installation}$$
+# $${\color{cyan}Auto- Install}$$
+```
+pkg update && pkg install wget -y && wget -qO- https://raw.githubusercontent.com/xiv3r/dhcp-starvation/refs/heads/main/auto | bash
+```
+
+# $${\color{cyan} Manual- Installation}$$
 
 - $${\color{magenta}install- package}$$
 ```
