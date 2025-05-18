@@ -1,0 +1,17 @@
+#!/bin/bash
+
+pkg update
+pkg install wget git clang -y
+
+# Clone
+git clone https://github.com/xiv3r/dhcp-starvation.git
+cd dhcp-starvation
+
+# Compile
+g++ starv.cpp -o starv
+
+# Prompt
+cat << EOF
+Run with Interface: ./starv -i wlan0
+Run in all Interface: ./starv
+EOF
