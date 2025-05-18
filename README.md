@@ -1,5 +1,5 @@
-# $${\color{cyan}DHCP- Starvation- Tool}$$
-dhcp starvation tool is a powerful tool that can starve all dhcp pool leading to all clients unable to obtain the ip from the dhcp server.
+# $${\color{cyan}TERMUX- DHCP- Starvation- Tool}$$
+dhcp starvation tool is a powerful tool that can starved all dhcp pool leading to all clients unable to obtain the ip from the dhcp server or either experience a network disruptions.
 
 # $${\color{cyan}Requirements}$$
 - g++/gcc compiler
