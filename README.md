@@ -2,8 +2,7 @@
 dhcp starvation tool is a powerful tool that can starve all dhcp pool leading to all clients unable to obtain the ip from the dhcp server.
 
 # $${\color{cyan}Requirements}$$
-- kali linux or [kali in termux](https://github.com/xiv3r/Termux-Pentesting-Distro/blob/main/KaliLinux/Chroot/README.md)
-- g++ compiler
+- g++/gcc compiler
 - Termux
 
 <details><summary></summary>
@@ -24,8 +23,8 @@ dhcp starvation tool is a powerful tool that can starve all dhcp pool leading to
 
 - $${\color{magenta}install- package}$$
 ```
-sudo apt update
-sudo apt install wget git g++ -y
+pkg update
+pkg install wget git g++ gcc -y
 ```
 - $${\color{magenta}clone- the- repo}$$
 ```
@@ -37,6 +36,7 @@ cd dhcp-starvation
 g++ starv.cpp -o starv
 ```
 - $${\color{magenta}run}$$
+> add interface "`./starv -i wlan0`"
 ```
 ./starv
 ```
