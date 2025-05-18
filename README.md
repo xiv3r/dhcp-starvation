@@ -21,7 +21,7 @@ A DHCP starvation tool is a powerful network attack tool that floods a DHCP serv
 
 # $${\color{cyan}Auto- Install}$$
 ```
-pkg update && pkg install wget -y && wget -qO- https://raw.githubusercontent.com/xiv3r/dhcp-starvation/refs/heads/main/auto | bash
+pkg update && pkg install wget -y && wget -qO- https://raw.githubusercontent.com/xiv3r/dhcp-starvation/refs/heads/main/auto | bash && cd dhcp-starvation
 ```
 
 # $${\color{cyan} Manual- Installation}$$
