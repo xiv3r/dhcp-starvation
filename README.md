@@ -24,7 +24,7 @@ dhcp starvation tool is a powerful tool that can starve all dhcp pool leading to
 - $${\color{magenta}install- package}$$
 ```
 pkg update
-pkg install wget git g++ gcc -y
+pkg install wget git clang -y
 ```
 - $${\color{magenta}clone- the- repo}$$
 ```
