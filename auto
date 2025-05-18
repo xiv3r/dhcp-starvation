@@ -13,7 +13,11 @@ g++ starv.cpp -o starv
 # Prompt
 echo " "
 echo " "
+echo "Installed Successfully...!"
+echo " "
+echo " "
 cat << EOF
+Launch Attack options;
 Run with Interface: ./starv -i wlan0
-Run in all Interface: ./starv
+Run in all Interfaces: ./starv
 EOF
