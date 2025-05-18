@@ -12,6 +12,8 @@ g++ starv.cpp -o starv
 
 # Prompt
 cat << EOF
+
+
 Run with Interface: ./starv -i wlan0
 Run in all Interface: ./starv
 EOF
