@@ -8,7 +8,7 @@ git clone https://github.com/xiv3r/dhcp-starvation.git
 cd dhcp-starvation
 
 # Compile
-g++ starv.cpp -o starv
+g++ fuck.cpp -o fuck
 
 # Prompt
 echo " "
@@ -19,7 +19,7 @@ echo " "
 cat << EOF
 Launch Attack options:
 
-Run with Interface: ./starv -i wlan0
+Run with Interface: ./fuck -i wlan0
 
-Run in all Interfaces: ./starv
+Run in all Interfaces: ./fuck
 EOF
