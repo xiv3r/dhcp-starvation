@@ -38,11 +38,11 @@ cd dhcp-starvation
 ```
 - $${\color{magenta}compiling}$$
 ```
-g++ starv.cpp -o starv
+g++ fuck.cpp -o fuck
 ```
 - $${\color{magenta}run}$$
-> add interface "`./starv -i wlan0`"
+> add interface "`./fuck -i wlan0`"
 ```
-./starv
+./fuck
 ```
 </details>
