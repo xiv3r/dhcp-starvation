@@ -43,4 +43,15 @@ g++ fuck.cpp -o fuck
 ```
 ./fuck
 ```
+- $${\color{magenta}impact}$$
+
+$ Disconnect and Reconnect
+
+Tested on GW: 192.168.1.1-255/24
+
+`Connecting...`
+
+`Obtaining IP...`
+
+`No IP Allocation...`
 </details>
