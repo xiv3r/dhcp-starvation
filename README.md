@@ -10,13 +10,11 @@ A DHCP starvation tool is a powerful network attack tool that floods a DHCP serv
 <details><summary></summary>
   
 -----
-<img src="https://github.com/xiv3r/dhcp-starvation/blob/main/image/Screenshot_2025_0427_062659.png">
+<img src="https://github.com/xiv3r/dhcp-starvation/blob/main/images/Screenshot_2025_0521_205230.png">
 
 -----
-<img src="https://github.com/xiv3r/dhcp-starvation/blob/main/image/Screenshot_2025_0427_062719.png">
+<img src="https://github.com/xiv3r/dhcp-starvation/blob/main/images/Screenshot_2025_0521_205159.png">
 
------
-<img src="https://github.com/xiv3r/dhcp-starvation/blob/main/image/Screenshot_2025_0427_062743.png">
 </img></details>
 
 # $${\color{cyan}Auto- Install}$$
