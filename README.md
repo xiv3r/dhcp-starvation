@@ -44,7 +44,7 @@ g++ fuck.cpp -o fuck
 ```
 - impact
 
-$ Disconnect and Reconnect
+- Disconnect and Reconnect
 
 Tested on GW: 192.168.1.1/24
 
