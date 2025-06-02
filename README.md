@@ -2,10 +2,9 @@
 A DHCP starvation tool is a powerful network attack tool that floods a DHCP server with fake DHCP requests, exhausting all available IP addresses in the DHCP pool. This prevents legitimate clients from obtaining an IP address, leading to network disruptions or a complete denial of service (DoS) for affected devices.
 
 # Requirements
-- g++/gcc compiler
-- Termux
+- g++ gcc clang compiler
+- Termux App
 
-  
 # Screenshots
 <details><summary></summary>
   
