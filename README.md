@@ -42,11 +42,10 @@ g++ fuck.cpp -o fuck
 ```
 ./fuck
 ```
-- impact
 
-- Disconnect and Reconnect
+# Impact
 
-Tested on GW: 192.168.1.1/24
+Disconnect and Reconnect on gateway 192.168.1.1/24
 
 `Connecting...`
 
