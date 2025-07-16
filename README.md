@@ -45,7 +45,7 @@ g++ fuck.cpp -o fuck
 
 # Impact
 
-Disconnect and Reconnect on gateway 192.168.1.1/24
+Disconnect and Reconnect from the wifi
 
 `Connecting...`
 
